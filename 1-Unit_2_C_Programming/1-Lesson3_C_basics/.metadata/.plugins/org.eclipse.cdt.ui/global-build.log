@@ -1,0 +1,8 @@
+04:03:19 **** Rebuild of configuration Debug for project 7_swap_nums_no_temp_var ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o 7_swap_nums_no_temp_var.exe main.o 
+04:03:27 **** Incremental Build of configuration Debug for project 7_swap_nums_no_temp_var ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o 7_swap_nums_no_temp_var.exe main.o 

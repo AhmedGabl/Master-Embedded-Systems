@@ -1,0 +1,7 @@
+03:16:49 **** Incremental Build of configuration Debug for project 2_Print_int ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o 2_Print_int.exe main.o 
+
+03:16:49 Build Finished (took 325ms)
+
